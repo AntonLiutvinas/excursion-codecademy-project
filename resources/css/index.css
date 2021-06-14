@@ -18,3 +18,24 @@ h4 a, h4 {
 	font-family: Verdana;
 	font-weight: normal;
 }
+
+video, video source {
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	font-size: 42px;
+	text-align: center;
+	color: white;
+	font-family: Verdana;
+	font-weight: 300;
+}
+
+h3 {
+	font-size: 21px;
+	text-align: center;
+	color: gray;
+	font-family: Verdana;
+	font-weight: normal;
+}
